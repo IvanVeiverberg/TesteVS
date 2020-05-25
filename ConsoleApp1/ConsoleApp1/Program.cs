@@ -14,7 +14,6 @@ namespace ConsoleApp1
             Console.WriteLine("Teste2");
             Console.WriteLine("Teste3");
             Console.WriteLine("Teste8");
-            Console.WriteLine("Teste9");
         }
     }
 }
